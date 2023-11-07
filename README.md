@@ -1,3 +1,3 @@
-# machine_leraning_superconductivity
+# Machine Leraning & Superconductivity
 
-This file contains my machine learning codes for predicting superconducting Tc
+This repo contains my machine learning codes for predicting superconducting Tc
